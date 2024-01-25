@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+* {
+	box-sizing: border-box;
+}
+#animal-photos {
+	width: 100%;
+	background-color: rgb(68,68,68);
+}
+#photo-heading {
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+.images11 {
+	padding: 5px;
+	border-radius: 18px;
+}
